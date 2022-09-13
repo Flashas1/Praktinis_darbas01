@@ -9,3 +9,4 @@ Console.WriteLine("lixsnfxgd");
 Console.WriteLine("T");
 Console.WriteLine("T");
 Console.WriteLine("T");
+var nmt = 123;
