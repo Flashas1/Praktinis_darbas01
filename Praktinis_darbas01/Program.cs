@@ -4,3 +4,7 @@ int kintamasis;
 
 //blalblab
 //asd
+
+Console.WriteLine("T");
+Console.WriteLine("T");
+Console.WriteLine("T");
