@@ -4,3 +4,8 @@ int kintamasis;
 
 Console.WriteLine("lixsnfxgd");
 //blalblab
+//asd
+
+Console.WriteLine("T");
+Console.WriteLine("T");
+Console.WriteLine("T");
