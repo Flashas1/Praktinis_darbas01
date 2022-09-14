@@ -1,12 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-int kintamasis;
 
-Console.WriteLine("lixsnfxgd");
-//blalblab
-//asd
+double izambine; //Vienas is kintamuju
 
-Console.WriteLine("T");
-Console.WriteLine("T");
-Console.WriteLine("T");
-var nmt = 123;
+
+izambine = Math.Sqrt(10 * 10 + 15 * 15); // Kintamojo reiksme priskirta
+
+
+Console.WriteLine(izambine); // Tiesiog pasitikrinau
